@@ -1,16 +1,9 @@
-import React from "react";
+import React from 'react';
+function Dinner(){
 
-function()
-{
     return(
-        <h1>today we are serving chicken biryani</h1>
-<h1>as well as korma too</h1>
 
-
-
+        <h1>today we have to serve biryani</h1>
     )
-
-
-
-
 }
+export default Dinner;

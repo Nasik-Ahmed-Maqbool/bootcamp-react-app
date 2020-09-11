@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Dinner from "./dinner.js"
+
 function App() {
   return (
     <div className="App">
-      
-      <Dinner />
+      <h1>how is it going on</h1>
+     
     </div>
   );
 }

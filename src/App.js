@@ -8,9 +8,9 @@ function App() {
       {/*<Dinner></Dinner>*/}
      <Dinner dishname='chicken biryani' sweetdish="Kheer" />
      <br />
-     <Dinner dishname='chicken biryani' sweetdish="Kheer" />
-     <br /> 
-     <Dinner dishname='chicken biryani' sweetdish="Kheer" />  
+     <hr />
+     <Dinner dishname='nihari' sweetdish="custard" />
+     <hr />  
      
     </div>
   );

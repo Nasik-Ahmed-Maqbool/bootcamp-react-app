@@ -1,10 +1,10 @@
 import React from 'react';
-function Dinner(props){
-
-    return(
-
-        <h1>today we have to serve {props.dishname}</h1>
-        <h1>today we also have to serve {props.sweetdish}</h1>
-    );
+function Dinner(props) {
+  return (
+    <div>
+      <h1>Today we are serving {props.dishname}</h1>
+      <h1>Today we are also serving sweet dish {props.sweetdish}</h1>
+    </div>
+  );
 }
 export default Dinner;
